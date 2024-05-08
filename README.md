@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Jiacheng! 👋
 
 Check out my [webpage](https://jcwang.org/) for more details about my experience and skills
 

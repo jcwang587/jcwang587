@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+Check out my [webpage](https://jcwang.org/) for more details about my experience and skills
+
+I am a UMass BTP Fellow and Douglas Fellow, currently a 4th-year Chemical Engineering Ph.D. candidate at UMass Amherst. I study electrochemical systems for energy storage and conversion using various computational and analytical methods.
+
 <!--
-**jcwang587/jcwang587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

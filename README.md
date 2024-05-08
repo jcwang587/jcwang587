@@ -4,6 +4,7 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 - 🎓 I am a UMass BTP Fellow and Douglas Fellow, currently a 4th-year Chemical Engineering Ph.D. candidate at UMass Amherst.
 - 🔭 I study electrochemical systems for energy storage and conversion using various computational and analytical methods.
+- 🥽 I am interested in visualizing structural chemical data. You can view my work on my [Sketchfab page](https://sketchfab.com/gur0bi).
 
 <!--
 Here are some ideas to get you started:

@@ -11,7 +11,7 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 - 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - A Python package enhancing VASP AIMD simulation
 
 [![PyPI Downloads](https://img.shields.io/pypi/dm/xdatbus?logo=pypi&logoColor=white&color=blue&label=PyPI)](https://pypi.org/project/xdatbus)
-[![Conda Downloads](https://img.shields.io/conda/dn/xdatbus/xdatbus?logo=condaforge&color=blue&label=Conda)](https://anaconda.org/xdatbus/xdatbus)
+[![Conda Downloads](https://img.shields.io/conda/dm/xdatbus/xdatbus?logo=condaforge&color=blue&label=Conda)](https://anaconda.org/xdatbus/xdatbus)
 
 <!--
 Here are some ideas to get you started:

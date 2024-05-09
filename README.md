@@ -6,6 +6,8 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 - 🔋 I study electrochemical systems for energy storage and conversion using various computational and analytical methods.
 - ⚛️ I am interested in visualizing structural chemical data. You can view my work on my [Sketchfab page](https://sketchfab.com/gur0bi).
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcwang587)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 Here are some ideas to get you started:
 

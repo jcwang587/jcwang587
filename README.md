@@ -6,7 +6,7 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 - 🔋 I am currently working on electrochemical systems for energy storage and conversion using computational methods.
 - ⚛️ I am interested in visualizing structural chemical data. You can view my work on my [Sketchfab webpage](https://sketchfab.com/gur0bi).
 
-## Python Packages
+## Python Package
 
 - 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - A Python package enhancing VASP AIMD simulation
 

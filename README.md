@@ -13,9 +13,9 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/xdatbus?logo=pypi&logoColor=white&color=blue&label=PyPI)](https://pypi.org/project/xdatbus)
 
-### Course (In Development)
+### Course
 
-- 📖 [math modeling](https://github.com/jcwang587/math-modeling-jupyter) - Chemical Engineering 231 Mathematical Modeling Spring 2025
+- 📖 [math modeling](https://github.com/jcwang587/math-modeling-jupyter) - Chemical Engineering 231 Mathematical Modeling Spring 2025 (In Development)
 
 <!--
 Here are some ideas to get you started:

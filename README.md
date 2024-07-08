@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Metrics
+### Github Metrics
 
-<img align="left" width="390" alt="Metrics" src="/base.svg">
-<img align="right" width="390" alt="Metrics" src="/languages.svg">
+<img align="right" width="395" alt="Metrics" src="/languages.svg">
+<img align="left" width="395" alt="Metrics" src="/base.svg">
+

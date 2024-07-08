@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### Metrics
 
-<img align="left" width="400" alt="Metrics" src="/base.svg">
-<img align="right" width="400" alt="Metrics" src="/languages.svg">
-<img align="right" width="400" alt="Metrics" src="/languages.svg" style="margin-top: -500px;">
+<img align="left" width="390" alt="Metrics" src="/base.svg">
+<img align="right" width="390" alt="Metrics" src="/languages.svg">
+<img align="right" width="390" alt="Metrics" src="/languages.svg">
 
 
 

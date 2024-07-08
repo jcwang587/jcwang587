@@ -32,13 +32,14 @@ Here are some ideas to get you started:
 
 ### Metrics
 
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="/base.svg" alt="Metrics" width="400">
   </div>
-  <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="display: flex; flex-direction: column;">
     <img src="/languages.svg" alt="Metrics" width="400">
     <img src="/languages.svg" alt="Metrics" width="400">
   </div>
 </div>
+
 

@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align-items: flex-start;">
   <div style="margin-right: 20px;">
-    <img src="/base.svg" alt="Metrics" width="400">
+    <img src="/base.svg" alt="Metrics" width="390">
   </div>
   <div style="display: flex; flex-direction: column;">
-    <img src="/languages.svg" alt="Metrics" width="400">
-    <img src="/languages.svg" alt="Metrics" width="400" style="margin-top: 20px;">
+    <img src="/languages.svg" alt="Metrics" width="390">
+    <img src="/languages.svg" alt="Metrics" width="390" style="margin-top: 20px;">
   </div>
 </div>
 

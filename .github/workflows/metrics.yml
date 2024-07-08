@@ -16,9 +16,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories, metadata
           base_indepth: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: html

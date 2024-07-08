@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 <img align="left" width="400" alt="Metrics" src="/base.svg">
 <img align="right" width="400" alt="Metrics" src="/languages.svg">
-<img align="right" width="400" alt="Metrics" src="/languages.svg">
+<div style="width: auto; height: auto; overflow: hidden;">
+  <img align="right" width="400" alt="Metrics" src="/languages.svg" style="margin-top: -50px;">
+</div>
 
 

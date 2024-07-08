@@ -32,5 +32,7 @@ Here are some ideas to get you started:
 
 ### Metrics
 
-<p align="left"><img src="/base.svg" alt="Metrics" width="400"></p>
-<p align="right"><img src="/languages.svg" alt="Metrics" width="400"></p>
+<p align="center">
+  <img src="/base.svg" alt="Metrics" width="400">
+  <img src="/languages.svg" alt="Metrics" width="400">
+</p>

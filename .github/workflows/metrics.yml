@@ -26,7 +26,6 @@ jobs:
           filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          base_indepth: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_ignored: html, scss, css, tex, javascript

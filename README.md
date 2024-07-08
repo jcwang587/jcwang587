@@ -32,11 +32,7 @@ Here are some ideas to get you started:
 
 ### Metrics
 
-<table>
-  <tr>
-    <td><img src="/base.svg" alt="Metrics" width="400"></td>
-    <td><img src="/languages.svg" alt="Metrics" width="400"></td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <img src="/base.svg" alt="Metrics" width="400">
+  <img src="/languages.svg" alt="Metrics" width="400">
+</p>

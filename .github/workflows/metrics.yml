@@ -31,6 +31,6 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_skipped: wedding
           plugin_languages_ignored: html
-          plugin_languages_limit: 6
+          plugin_languages_limit: 5
           plugin_languages_details: lines, bytes-size, percentage
-          commits_authoring: Jiacheng Wang, jcwang587, jcwang587@users.noreply.github.com
+          commits_authoring: Jiacheng Wang, jcwang587, jiachengwang@umass.edu

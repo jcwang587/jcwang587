@@ -31,4 +31,4 @@ jobs:
           plugin_languages_ignored: html, scss, css
           plugin_languages_limit: 9
           plugin_languages_details: lines, bytes-size, percentage
-          commits_authoring: firstname lastname, username, username@users.noreply.github.com
+          commits_authoring: Jiacheng Wang, jcwang587, jcwang587@users.noreply.github.com

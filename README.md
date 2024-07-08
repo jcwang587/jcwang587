@@ -32,5 +32,7 @@ Here are some ideas to get you started:
 
 ### Metrics
 
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 

@@ -30,5 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Metrics
+
 ![Metrics](/github-metrics.svg)
 

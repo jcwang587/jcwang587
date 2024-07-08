@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ### Metrics
 
-<p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-
+<p align="left"><img src="/base.svg" alt="Metrics" width="400"></p>
+<p align="right"><img src="/languages.svg" alt="Metrics" width="400"></p>

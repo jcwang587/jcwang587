@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 ### Metrics
 
-<p align="center">
-  <img src="/base.svg" alt="Metrics" width="400">
+<div style="display: flex; align-items: flex-start;">
+  <img src="/base.svg" alt="Metrics" width="400" style="margin-right: 20px;">
   <img src="/languages.svg" alt="Metrics" width="400">
-</p>
+</div>
+

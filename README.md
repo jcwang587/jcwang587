@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 ### Github Metrics
 
-<img align="left" width="420" alt="Metrics" src="/languages.svg">
-<img align="right" width="420" alt="Metrics" src="/base.svg">
+<img align="left" width="415" alt="Metrics" src="/languages.svg">
+<img align="right" width="415" alt="Metrics" src="/base.svg">
 

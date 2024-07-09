@@ -6,14 +6,14 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 - 🔋 I am currently working on electrochemical systems for energy storage and conversion using computational methods.
 - ⚛️ I am interested in visualizing structural chemical data. You can view my work on my [Sketchfab webpage](https://sketchfab.com/gur0bi).
 
-### Python Package
+### Packages
 
 - 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - A Python package enhancing VASP AIMD simulation
 
 [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/xdatbus?logo=pypi&logoColor=white&color=blue&label=PyPI)](https://pypi.org/project/xdatbus)
 
-### Course
+### Courses
 
 - 📓 [math modeling](https://jcwang.org/math-modeling) (In Development) - Chemical Engineering 231 Mathematical Modeling Spring 2025
 

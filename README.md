@@ -6,9 +6,9 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 - 🔋 I am currently working on electrochemical systems for energy storage and conversion using computational methods.
 - ⚛️ I am interested in visualizing structural chemical data. You can view my work on my [Sketchfab webpage](https://sketchfab.com/gur0bi).
 
-<img align="left" height="100" alt="ials2023" src="https://jcwang.org/photo/ials2023.jpg">
+<img align="left" height="150" alt="ials2023" src="https://jcwang.org/photo/ials2023.jpg">
 
-<img align="left" height="100" alt="cc2024" src="https://jcwang.org/photo/cc2024.png">
+<img align="left" height="150" alt="cc2024" src="https://jcwang.org/photo/cc2024.png">
 
 <br clear="all"/>
 

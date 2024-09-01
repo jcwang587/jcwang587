@@ -33,6 +33,6 @@ jobs:
           plugin_languages_skipped: wedding
           plugin_languages_ignored: html
           plugin_languages_limit: 5
-          plugin_languages_recent_days: 30
+          plugin_languages_recent_days: 21
           plugin_languages_details: lines, bytes-size, percentage
           commits_authoring: Jiacheng Wang, jcwang587, jiachengwang@umass.edu

@@ -21,7 +21,7 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 ### Courses
 
-- 📓 [math modeling](https://jcwang.org/math-modeling) (In Development) - Chemical Engineering 231 Mathematical Modeling Spring 2025
+- 📝 [math modeling](https://jcwang.org/math-modeling) (In Development) - Chemical Engineering 231 Mathematical Modeling Spring 2025
 
 <!--
 Here are some ideas to get you started:

@@ -37,8 +37,13 @@ Here are some ideas to get you started:
 
 ### Github Metrics
 
-<div style="display: flex;">
-  <img width="395" alt="Metrics" src="/languages.svg" style="vertical-align: top;">
-  <img width="395" alt="Metrics" src="/base.svg" style="vertical-align: top;">
+<div style="display: flex; align-items: flex-start;">
+  <div style="display: inline-block;">
+    <img width="395" alt="Metrics" src="/languages.svg" style="display: block;">
+  </div>
+  <div style="display: inline-block;">
+    <img width="395" alt="Metrics" src="/base.svg" style="display: block;">
+  </div>
 </div>
+
 

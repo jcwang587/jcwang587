@@ -11,7 +11,6 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
   <img height="150" alt="cc2024" src="https://jcwang.org/photo/cc2024.png">
 </div>
 
-
 ### Packages
 
 - 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - A Python package enhancing VASP AIMD simulation

@@ -37,5 +37,7 @@ Here are some ideas to get you started:
 
 ### Github Metrics
 
-<img align="left" width="395" alt="Metrics" src="/languages.svg">
-<img align="right" width="395" alt="Metrics" src="/base.svg">
+<div style="display: flex; align-items: center;">
+  <img width="395" alt="Metrics" src="/languages.svg">
+  <img width="395" alt="Metrics" src="/base.svg">
+</div>

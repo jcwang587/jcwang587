@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 ### Github Metrics
 
-<div style="display: flex; align-items: flex-start;">
-  <img width="395" alt="Metrics" src="/languages.svg" style="margin: 0; padding: 0; vertical-align: top;">
-  <img width="395" alt="Metrics" src="/base.svg" style="margin: 0; padding: 0; vertical-align: top;">
+<div style="display: flex; align-items: center;">
+  <img height="220" alt="ials2023" src="/languages.svg">
+  <img height="220" alt="cc2024" src="/base.svg">
 </div>
 

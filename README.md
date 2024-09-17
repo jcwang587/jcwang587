@@ -18,7 +18,7 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 [![PyPI Downloads](https://img.shields.io/pypi/dm/xdatbus?logo=pypi&logoColor=white&color=blue&label=PyPI)](https://pypi.org/project/xdatbus) 
 
 - 2️⃣ [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN predicting material properties
-- [![Release](https://img.shields.io/github/v/release/jcwang587/cgcnn2)](https://github.com/jcwang587/cgcnn2/releases)
+[![Release](https://img.shields.io/github/v/release/jcwang587/cgcnn2)](https://github.com/jcwang587/cgcnn2/releases)
 
 ### Courses
 

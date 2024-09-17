@@ -13,9 +13,9 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 ### Packages
 
-- 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - A Python package enhancing VASP AIMD simulation
+- 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) 
 [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/xdatbus?logo=pypi&logoColor=white&color=blue&label=PyPI)](https://pypi.org/project/xdatbus)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/xdatbus?logo=pypi&logoColor=white&color=blue&label=PyPI)](https://pypi.org/project/xdatbus) - A Python package enhancing VASP AIMD simulation
 
 - 2️⃣ [cgcnn2](https://github.com/jcwang587/cgcnn2)
 

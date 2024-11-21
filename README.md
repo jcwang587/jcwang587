@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Github Metrics
+### GitHub Metrics 
+
+> Languages activity for `public` repositories only.
 
 <div style="display: flex; align-items: center;">
   <img width="395" alt="languages" src="/languages.svg">

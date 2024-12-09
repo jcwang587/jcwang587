@@ -17,12 +17,12 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 - 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - A Python package for enhancing VASP AIMD simulations and analysis
 
   [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases)
-  [![Downloads](https://pepy.tech/badge/xdatbus)](https://pepy.tech/project/xdatbus)  
+  [![PyPI Downloads](https://static.pepy.tech/badge/xdatbus)](https://pepy.tech/projects/xdatbus)
 
 - 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN with fine-tuning for predicting material properties
 
   [![Release](https://img.shields.io/github/v/release/jcwang587/cgcnn2)](https://github.com/jcwang587/cgcnn2/releases)
-  [![Downloads](https://pepy.tech/badge/cgcnn2)](https://pepy.tech/project/cgcnn2)  
+  [![PyPI Downloads](https://static.pepy.tech/badge/cgcnn2)](https://pepy.tech/projects/cgcnn2)
 
 ### Courses
 

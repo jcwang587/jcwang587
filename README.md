@@ -3,7 +3,7 @@
 Visit my [personal webpage](https://jcwang.org/) for more details about my experience.
 
 - 🎓 I am a UMass BTP Fellow and Douglas Fellow, currently a chemical engineering Ph.D. candidate at UMass Amherst.
-- 💊 I am currently a Co-Op at Boehringer Ingelheim, focusing on the prediction of metabolic sites.
+- 💊 I am currently a Co-Op at Boehringer Ingelheim, focusing on the prediction of the sites of metabolism.
 - 🔋 I am currently working on electrochemical systems for energy storage and conversion using computational methods.
 - 🥽 I am interested in 3D visualization of chemical structures. You can view my work on my [Sketchfab webpage](https://sketchfab.com/gur0bi).
 

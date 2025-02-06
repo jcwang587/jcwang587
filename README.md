@@ -26,11 +26,11 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 - 🗄️ [drugo](https://github.com/jcwang587/drugo) - A Dash app for managing the metabolic sites database
 
-  [![Heroku Status](https://img.shields.io/badge/Heroku-Running-5A1BA9?logo=heroku)](https://drugo-a54338d8b0d8.herokuapp.com/)
+  [![Heroku Status](https://img.shields.io/badge/heroku-5A1BA9?logo=heroku)](https://drugo-a54338d8b0d8.herokuapp.com/)
 
 ### Courses
 
-- 📝 [math modeling](https://github.com/jcwang587/math-modeling) (In Development) - ChE 231 Mathematical Modeling
+- 📝 [math modeling](https://github.com/jcwang587/math-modeling) (In Development) - ChE 231 Mathematical Modeling Spring 2025
 
   [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://jcwang.org/math-modeling/)
   [![DOI](https://zenodo.org/badge/821043229.svg)](https://doi.org/10.5281/zenodo.14303610)

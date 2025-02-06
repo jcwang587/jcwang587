@@ -24,9 +24,9 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
   [![Release](https://img.shields.io/github/v/release/jcwang587/cgcnn2)](https://github.com/jcwang587/cgcnn2/releases)
   [![PyPI Downloads](https://static.pepy.tech/badge/cgcnn2)](https://pepy.tech/projects/cgcnn2)
 
-- 🗄️ [drugo](https://github.com/jcwang587/drugo) - A Dash App to manage the database of metabolic sites
+- 🗄️ [drugo](https://github.com/jcwang587/drugo) - A Dash app for managing the metabolic sites database
 
-  [![Heroku Status](https://img.shields.io/badge/Heroku-Running-green?logo=heroku)](https://drugo-a54338d8b0d8.herokuapp.com/)
+  [![Heroku Status](https://img.shields.io/badge/Heroku-Running-5A1BA9?logo=heroku)](https://drugo-a54338d8b0d8.herokuapp.com/)
 
 ### Courses
 

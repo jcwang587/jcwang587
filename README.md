@@ -45,7 +45,6 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 - 📝 [math modeling](https://github.com/jcwang587/math-modeling) - Jupyter Book for ChE 231 Mathematical Modeling Spring 2025
   [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://jcwang.org/math-modeling/)
-  [![DOI](https://zenodo.org/badge/821043229.svg)](https://doi.org/10.5281/zenodo.14303610)
   
 <!--
   [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://jcwang.org/math-modeling/)

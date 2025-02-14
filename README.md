@@ -14,15 +14,11 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 ### Python Packages
 
-- 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - A Python package for enhancing VASP AIMD simulations and analysis
-[![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases/latest)
-[![PyPI Downloads](https://static.pepy.tech/badge/xdatbus)](https://pepy.tech/projects/xdatbus)
-- 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN with fine-tuning for predicting material properties
-[![Release](https://img.shields.io/github/v/release/jcwang587/cgcnn2)](https://github.com/jcwang587/cgcnn2/releases/latest)
-[![PyPI Downloads](https://static.pepy.tech/badge/cgcnn2)](https://pepy.tech/projects/cgcnn2)
-- 🗄️ [drugo](https://github.com/jcwang587/drugo) - A Dash web app for managing the metabolic sites database
-[![Release](https://img.shields.io/github/v/release/jcwang587/drugo)](https://github.com/jcwang587/drugo/releases/latest)
-[![Heroku Status](https://img.shields.io/badge/Heroku-5A1BA9?logo=heroku)](https://drugo-a54338d8b0d8.herokuapp.com/)
+| 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - A Python package for enhancing VASP AIMD simulations and analysis | [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases/latest) [![PyPI Downloads](https://static.pepy.tech/badge/xdatbus)](https://pepy.tech/projects/xdatbus) |
+| :--- | :--- |
+| 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN with fine-tuning for predicting material properties | [![Release](https://img.shields.io/github/v/release/jcwang587/cgcnn2)](https://github.com/jcwang587/cgcnn2/releases/latest) [![PyPI Downloads](https://static.pepy.tech/badge/cgcnn2)](https://pepy.tech/projects/cgcnn2) |
+| 🗄️ [drugo](https://github.com/jcwang587/drugo) - A Dash web app for managing the metabolic sites database | [![Release](https://img.shields.io/github/v/release/jcwang587/drugo)](https://github.com/jcwang587/drugo/releases/latest) [![Heroku Status](https://img.shields.io/badge/Heroku-5A1BA9?logo=heroku)](https://drugo-a54338d8b0d8.herokuapp.com/) |
+
 
 <!--
   [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases/latest)

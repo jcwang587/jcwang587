@@ -14,6 +14,10 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 ### Python Packages
 
+- 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - Python package for enhancing VASP AIMD simulations and analysis
+- 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN with fine-tuning for predicting material properties
+- 🗄️ [drugo](https://github.com/jcwang587/drugo) - Dash web app for managing the metabolic sites database
+
 <!--
   [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases/latest)
   [![PyPI Downloads](https://static.pepy.tech/badge/xdatbus)](https://pepy.tech/projects/xdatbus)
@@ -31,9 +35,7 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 ### Courses
 
-- 📝 [math modeling](https://github.com/jcwang587/math-modeling) - ChE 231 Mathematical Modeling Spring 2025
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://jcwang.org/math-modeling/)
-[![DOI](https://zenodo.org/badge/821043229.svg)](https://doi.org/10.5281/zenodo.14303610)
+- 📝 [math modeling](https://github.com/jcwang587/math-modeling) - Jupyter Book for ChE 231 Mathematical Modeling Spring 2025
   
 <!--
   [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://jcwang.org/math-modeling/)

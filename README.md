@@ -14,9 +14,9 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
 
 ### Python Packages
 
-- 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - Python package for enhancing VASP AIMD simulations and analysis 
 - 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN with fine-tuning for predicting material properties
 - 🗄️ [drugo](https://github.com/jcwang587/drugo) - Dash web app for managing the metabolic sites database
+- 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - Python package for enhancing VASP AIMD simulations and analysis 
 
 <!--
   [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases/latest)

@@ -12,7 +12,7 @@ Visit my [personal webpage](https://jcwang.org/) for more details about my exper
   <img height="150" alt="cc2024" src="https://jcwang.org/photo/cc2024.png">
 </div>
 
-### Python Packages
+### Packages & Apps
 
 - 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN with fine-tuning for predicting material properties
 - 🗄️ [drugo](https://github.com/jcwang587/drugo) - Dash web app for managing the metabolic sites database

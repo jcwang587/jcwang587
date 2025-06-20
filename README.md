@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Visit my [personal webpage](https://jcwang.org/) for more details about my experience.
+Visit my [personal webpage](https://jcwang.dev/) for more details about my experience.
 
 - 🎓 I am a UMass BTP & ChemE Douglas Fellow, and a Ph.D. candidate in chemical engineering at **UMass Amherst**.
 - 💊 I was a Material and Analytical Sciences Co-Op at **Boehringer Ingelheim**.

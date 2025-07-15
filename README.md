@@ -13,29 +13,29 @@ Visit my [personal webpage](https://jcwang.dev/) for more details about my exper
 
 ### Packages & Apps
 
-- 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN for predicting material properties
-- 🗄️ [drugo](https://github.com/jcwang587/drugo) - Dash web app for managing the metabolic sites database
-- 🐳 [iptainer](https://hub.docker.com/r/jcwang587/iptainer) - Container images for running machine learning interatomic potentials
-- 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - Python package for enhancing VASP AIMD simulations and analysis 
+- 🔮 [cgcnn2](https://github.com/jcwang-dev/cgcnn2) - Reproduction of CGCNN for predicting material properties
+- 🗄️ [drugo](https://github.com/jcwang-dev/drugo) - Dash web app for managing the metabolic sites database
+- 🐳 [iptainer](https://hub.docker.com/r/jcwang-dev/iptainer) - Container images for running machine learning interatomic potentials
+- 🚌 [xdatbus](https://github.com/jcwang-dev/xdatbus) - Python package for enhancing VASP AIMD simulations and analysis 
 
 <!--
-  [![Release](https://img.shields.io/github/v/release/jcwang587/xdatbus)](https://github.com/jcwang587/xdatbus/releases/latest)
+  [![Release](https://img.shields.io/github/v/release/jcwang-dev/xdatbus)](https://github.com/jcwang-dev/xdatbus/releases/latest)
   [![PyPI Downloads](https://static.pepy.tech/badge/xdatbus)](https://pepy.tech/projects/xdatbus)
 -->
 
 <!--
-  [![Release](https://img.shields.io/github/v/release/jcwang587/cgcnn2)](https://github.com/jcwang587/cgcnn2/releases/latest)
+  [![Release](https://img.shields.io/github/v/release/jcwang-dev/cgcnn2)](https://github.com/jcwang-dev/cgcnn2/releases/latest)
   [![PyPI Downloads](https://static.pepy.tech/badge/cgcnn2)](https://pepy.tech/projects/cgcnn2)
 -->
 
 <!--
-  [![Release](https://img.shields.io/github/v/release/jcwang587/drugo)](https://github.com/jcwang587/drugo/releases/latest)
+  [![Release](https://img.shields.io/github/v/release/jcwang-dev/drugo)](https://github.com/jcwang-dev/drugo/releases/latest)
   [![Heroku Status](https://img.shields.io/badge/Heroku-5A1BA9?logo=heroku)](https://drugo-a54338d8b0d8.herokuapp.com/)
 -->
 
 ### Courses
 
-- 📝 [math modeling](https://github.com/jcwang587/math-modeling) - Jupyter Book for ChE 231 Mathematical Modeling Spring 2025
+- 📝 [math modeling](https://jcwang.dev/math-modeling/preface.html) - Jupyter Book for ChE 231 Mathematical Modeling Spring 2025
   
 <!--
   [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://jcwang.org/math-modeling/)

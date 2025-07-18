@@ -1,10 +1,12 @@
-### Hi there 👋
-
+<!--
 Visit my [personal webpage](https://jcwang.dev/) for more details about my experience.
 
 - 🎓 I am a UMass BTP & ChemE Douglas Fellow, and a Ph.D. candidate in chemical engineering at **UMass Amherst**.
 - 💊 I was a Material and Analytical Sciences Co-Op at **Boehringer Ingelheim**.
 - 🥽 I am interested in 3D visualization of chemical structures. You can view my work on my [Sketchfab webpage](https://sketchfab.com/gur0bi).
+-->
+
+### Scientific Illustration
 
 <div style="display: flex; align-items: center;">
   <img height="150" alt="ials2023" src="https://jcwang.dev/photo/ials2023.jpg">

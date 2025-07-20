@@ -35,7 +35,7 @@ Visit my [personal webpage](https://jcwang.dev/) for more details about my exper
 - 📝 [math modeling](https://jcwang.dev/math-modeling/preface.html) - Jupyter Book for ChE 231 Mathematical Modeling Spring 2025
 
 
-### Scientific Illustration
+### Scientific Artwork
 
 <div style="display: flex; align-items: center;">
   <img height="150" alt="ials2023" src="https://jcwang.dev/photo/ials2023.jpg">

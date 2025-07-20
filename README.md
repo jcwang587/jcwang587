@@ -8,7 +8,7 @@ Visit my [personal webpage](https://jcwang.dev/) for more details about my exper
 -->
 
 
-### Packages & Apps
+## Packages & Apps
 
 - 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN for predicting material properties
 - 🗄️ [drugo](https://github.com/jcwang587/drugo) - Dash web app for managing the metabolic sites database
@@ -30,12 +30,12 @@ Visit my [personal webpage](https://jcwang.dev/) for more details about my exper
   [![Heroku Status](https://img.shields.io/badge/Heroku-5A1BA9?logo=heroku)](https://drugo-a54338d8b0d8.herokuapp.com/)
 -->
 
-### Courses
+## Courses
 
 - 📝 [math modeling](https://jcwang.dev/math-modeling/preface.html) - Jupyter Book for ChE 231 Mathematical Modeling Spring 2025
 
 
-### Cover Art
+## Cover Art
 
 <div style="display: flex; align-items: center;">
   <img height="150" alt="ials2023" src="https://jcwang.dev/photo/ials2023.jpg">
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### GitHub Metrics 
+## GitHub Metrics 
 
 > Languages activity for `public` repositories only.
 

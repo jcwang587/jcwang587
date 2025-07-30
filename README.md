@@ -13,7 +13,10 @@ Visit my [personal webpage](https://jcwang.dev/) for more details about my exper
 - 🔮 [cgcnn2](https://github.com/jcwang587/cgcnn2) - Reproduction of CGCNN for predicting material properties
 - 🗄️ [drugo](https://github.com/jcwang587/drugo) - Dash web app for managing the metabolic sites database
 - 🐳 [iptainer](https://hub.docker.com/r/jcwang587/iptainer) - Container images for running machine learning interatomic potentials
+
+<!--
 - 🚌 [xdatbus](https://github.com/jcwang587/xdatbus) - Python package for enhancing VASP AIMD simulations and analysis 
+-->
 
 <!--
   [![Release](https://img.shields.io/github/v/release/jcwang-dev/xdatbus)](https://github.com/jcwang-dev/xdatbus/releases/latest)

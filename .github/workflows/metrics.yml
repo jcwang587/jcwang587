@@ -11,14 +11,14 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           filename: base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: activity, community, repositories, metadata
           base_indepth: yes
 
-      - uses: lowlighter/metrics@latest
+      - uses: gh-metrics/metrics@latest
         with:
           filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -34,4 +34,4 @@ jobs:
           plugin_languages_limit: 5
           # plugin_languages_recent_days: 30
           plugin_languages_details: lines, bytes-size, percentage
-          commits_authoring: Jiacheng Wang, jcwang587, jiachengwang@umass.edu
+          commits_authoring: Jiacheng Wang, jcwang587, jcwang.dev@gmail.com

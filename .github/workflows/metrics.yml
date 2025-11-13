@@ -18,7 +18,7 @@ jobs:
           base: activity, community, repositories, metadata
           base_indepth: yes
 
-      - uses: gh-metrics/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: languages.svg
           token: ${{ secrets.METRICS_TOKEN }}

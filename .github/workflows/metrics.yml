@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: gh-metrics/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           filename: base.svg
           token: ${{ secrets.METRICS_TOKEN }}
